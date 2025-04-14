@@ -32,7 +32,7 @@ Meu objetivo é evoluir gradualmente, praticando bastante lógica e algoritmos, 
 - Arrays e strings (iniciando)
 
 **Inglês:**  
-- Curso básico (recomendado por um amigo)  
+- Curso básico
 - Objetivo de aprimorar leitura e comunicação técnica
 
 ---
