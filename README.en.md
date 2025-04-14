@@ -32,7 +32,7 @@ My goal is to evolve gradually, practicing logic and algorithms extensively, to 
 - Arrays and strings (beginner)
 
 **English:**  
-- Basic course (recommended by a friend)  
+- Basic course
 - Aiming to improve reading and technical communication
 
 ---
