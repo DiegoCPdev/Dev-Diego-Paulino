@@ -9,11 +9,11 @@ Meu objetivo é evoluir gradualmente, praticando bastante lógica e algoritmos, 
 No próximo semestre, vou começar a faculdade de Análise e Desenvolvimento de Sistemas para aprimorar meus conhecimentos e acelerar minha carreira.
 
 # O que estou estudando
-Linguagem:
+# Linguagem:
 
 JavaScript (foco principal)
 
-Ambiente:
+# Ambiente:
 
 Visual Studio Code
 
