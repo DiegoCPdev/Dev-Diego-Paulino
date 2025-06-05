@@ -12,9 +12,9 @@
 
 ## Sobre mim
 
-Atualmente atuo como encarregado de obras na área da engenharia civil, mas sempre fui apaixonado por tecnologia. Por influência familiar, segui na construção civil, mas aos 21 anos decidi seguir meu verdadeiro interesse: o desenvolvimento de software.
+Atualmente atuo como gerente de obras na área da engenharia civil, mas sempre fui apaixonado por tecnologia. Por influência familiar, segui na construção civil, mas aos 21 anos decidi seguir meu verdadeiro interesse: o desenvolvimento de software.
 
-Estou em transição de carreira, buscando me tornar um desenvolvedor back-end. Início, no próximo semestre, o curso de Análise e Desenvolvimento de Sistemas na FIAP.
+Estou em transição de carreira, buscando me tornar um desenvolvedor back-end. Inicío, no próximo semestre, o curso de Análise e Desenvolvimento de Sistemas na FIAP.
 
 ---
 
@@ -58,7 +58,7 @@ Plataformas em que pratico lógica, algoritmos e desafios:
 
 ## Inglês
 
-Atualmente meu nível de inglês é básico. Tenho dificuldades com conteúdos simples, mas pretendo começar um curso em breve com o objetivo de melhorar minha leitura técnica e comunicação.
+Atualmente meu nível de inglês é básico, mas desejo iniciar um curso com o objetivo de melhorar minha leitura técnica e comunicação.
 
 ---
 
@@ -80,8 +80,6 @@ Atualmente meu nível de inglês é básico. Tenho dificuldades com conteúdos s
 ---
 
 ## Contato
-
-Se quiser trocar ideia, tirar dúvidas ou bater um papo sobre programação:
 
 - 📧 Email: diegopaulino.dev@gmail.com  
 - 📱 WhatsApp: +55 11 95035-4422  
