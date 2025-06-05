@@ -53,7 +53,6 @@ Plataformas em que pratico lógica, algoritmos e desafios:
 - [HackerRank](https://www.hackerrank.com/)
 - [Beecrowd](https://www.beecrowd.com.br/)
 - [LeetCode](https://leetcode.com/)
-- [Bicrowd](https://bicrowd.com/)
 
 ---
 
