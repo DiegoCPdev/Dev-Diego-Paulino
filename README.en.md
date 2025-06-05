@@ -1,7 +1,7 @@
 [🇧🇷 Português](README.md) | [🇬🇧 English](README.en.md)
 
 <h1 align="center">Diego Paulino</h1>
-<p align="center">💻 Aspiring back-end developer | Transitioning from civil engineering to tech</p>
+<p align="center">💻 Developer in training, focused on back-end | Transitioning from civil engineering to tech</p>
 
 <p align="center">
   <a href="https://github.com/DiegoCPDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-DiegoCPDev-181717?style=flat&logo=github" /></a>
@@ -10,30 +10,30 @@
 
 ---
 
-## About me
+## About Me
 
-I currently work as a construction site supervisor in civil engineering. Although I followed a family-driven path in this field, I’ve always had a strong interest in technology.
+I currently work as a construction manager in civil engineering, but I've always been passionate about technology. Influenced by family, I initially followed a career in construction, but at the age of 21, I decided to pursue my true interest: software development.
 
-At 21, I decided to pursue my real passion: software development. I’m now transitioning to tech and will begin my degree in Systems Analysis and Development at FIAP next semester.
+I'm transitioning careers and aiming to become a back-end developer. Next semester, I’ll begin a degree in Systems Analysis and Development at FIAP.
 
 ---
 
-## What I’m studying
+## What I'm Studying
 
 ### Main language
 - JavaScript
 
-### Tools I use daily
+### Daily tools
 - Node.js
 - Git
 - Visual Studio Code
 - Windows 11
 
 ### Programming fundamentals
-- Logic and algorithms
+- Logic and problem-solving
 - Variables and data types
 - Logical and arithmetic operators
-- Loops
+- Loops (repetition structures)
 - Conditionals
 - Functions
 - Arrays and objects
@@ -42,13 +42,13 @@ At 21, I decided to pursue my real passion: software development. I’m now tran
 
 ## Back-end
 
-I’m currently studying Node.js through [Rocketseat](https://www.rocketseat.com.br). Most of my learning also comes from self-taught content, especially YouTube and practice.
+I'm currently studying Node.js through a course from [Rocketseat](https://www.rocketseat.com.br). In addition, much of my learning comes from self-taught sources like YouTube videos and hands-on practice.
 
 ---
 
 ## Practice
 
-I use the following platforms to improve my problem-solving and programming skills:
+Platforms where I practice logic, algorithms, and challenges:
 
 - [HackerRank](https://www.hackerrank.com/)
 - [Beecrowd](https://www.beecrowd.com.br/)
@@ -58,19 +58,19 @@ I use the following platforms to improve my problem-solving and programming skil
 
 ## English
 
-My current English level is basic. I face difficulties even with simple content, but I’m planning to start an English course soon to improve my technical reading and communication.
+My current English level is basic, but I plan to start a course soon to improve my technical reading and communication.
 
 ---
 
-## Next steps
+## Next Steps
 
-- Deepen my knowledge of Git
-- Progress in back-end with Node.js
-- Start hands-on projects with APIs and small systems
+- Deepen my Git knowledge
+- Advance in back-end with Node.js
+- Start practical projects using APIs and simple systems
 
 ---
 
-## Technologies I’m using/studying
+## Technologies I'm Using / Learning
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -80,8 +80,6 @@ My current English level is basic. I face difficulties even with simple content,
 ---
 
 ## Contact
-
-Feel free to reach out to talk, ask questions, or connect over programming:
 
 - 📧 Email: diegopaulino.dev@gmail.com  
 - 📱 WhatsApp: +55 11 95035-4422  
