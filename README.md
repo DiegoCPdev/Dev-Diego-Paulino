@@ -1,55 +1,89 @@
 [🇬🇧 English](README.en.md) | [🇧🇷 Português](README.md)
 
-# Diego Paulino
-Desenvolvedor em formação, migrando da engenharia civil para o mundo da programação. Atualmente focado em aprender lógica de programação com JavaScript e construindo uma base sólida para seguir como desenvolvedor back-end.
+<h1 align="center">Diego Paulino</h1>
+<p align="center">💻 Desenvolvedor em formação, com foco em back-end | Migrando da engenharia civil para a tecnologia</p>
 
-# Sobre mim
-Atualmente trabalho com engenharia civil, mas decidi trilhar um novo caminho na tecnologia. Estou me dedicando aos estudos de programação por conta própria, com foco total em desenvolvimento back-end.
-Meu objetivo é evoluir gradualmente, praticando bastante lógica e algoritmos, para, futuramente, atuar na área de back-end.
-No próximo semestre, vou começar a faculdade de Análise e Desenvolvimento de Sistemas para aprimorar meus conhecimentos e acelerar minha carreira.
+<p align="center">
+  <a href="https://github.com/DiegoCPDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-DiegoCPDev-181717?style=flat&logo=github" /></a>
+  <a href="mailto:diegopaulino.dev@gmail.com"><img src="https://img.shields.io/badge/Email-diegopaulino.dev@gmail.com-blue?style=flat&logo=gmail" /></a>
+</p>
 
-# O que estou estudando
-# Linguagem:
+---
 
-JavaScript (foco principal)
+## Sobre mim
 
-# Ambiente:
+Atualmente atuo como encarregado de obras na área da engenharia civil, mas sempre fui apaixonado por tecnologia. Por influência familiar, segui na construção civil, mas aos 21 anos decidi seguir meu verdadeiro interesse: o desenvolvimento de software.
 
-Visual Studio Code
+Estou em transição de carreira, buscando me tornar um desenvolvedor back-end. Início, no próximo semestre, o curso de Análise e Desenvolvimento de Sistemas na FIAP.
 
-Windows 11
+---
 
-# Tópicos atuais em programação:
+## O que estou estudando
 
-Variáveis e tipos de dados
+### Linguagem principal
+- JavaScript
 
-Operadores lógicos e aritméticos
+### Ferramentas do dia a dia
+- Node.js
+- Git
+- Visual Studio Code
+- Windows 11
 
-Estruturas de repetição (loops)
+### Fundamentos de programação
+- Lógica de programação
+- Variáveis e tipos de dados
+- Operadores lógicos e aritméticos
+- Estruturas de repetição (loops)
+- Condicionais
+- Funções
+- Arrays e objetos
 
-Condicionais
+---
 
-Funções
+## Back-end
 
-Arrays e objetos (iniciando)
+Atualmente estou estudando Node.js através de um curso da [Rocketseat](https://www.rocketseat.com.br). Além disso, grande parte do meu aprendizado vem de fontes autodidatas, como vídeos no YouTube e prática constante.
 
-# Inglês:
+---
 
-Vou começar a fazer um curso de inglês em breve
+## Prática
 
-Objetivo de aprimorar leitura e comunicação técnica
+Plataformas em que pratico lógica, algoritmos e desafios:
 
-# Próximos passos
-Estudar fundamentos do back-end, principalmente Node.js
+- [HackerRank](https://www.hackerrank.com/)
+- [Beecrowd](https://www.beecrowd.com.br/)
+- [LeetCode](https://leetcode.com/)
+- [Bicrowd](https://bicrowd.com/)
 
-Aprender a criar APIs RESTful
+---
 
-Desenvolver projetos práticos simples para aplicar os conceitos estudados
+## Inglês
 
-Avançar no inglês técnico para melhorar a comunicação e leitura de documentação
+Atualmente meu nível de inglês é básico. Tenho dificuldades com conteúdos simples, mas pretendo começar um curso em breve com o objetivo de melhorar minha leitura técnica e comunicação.
 
-# Contato
+---
+
+## Próximos passos
+
+- Aprofundar meu conhecimento em Git
+- Avançar no back-end com Node.js
+- Iniciar projetos práticos com APIs e sistemas simples
+
+---
+
+## Tecnologias que estou usando/estudando
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Contato
+
 Se quiser trocar ideia, tirar dúvidas ou bater um papo sobre programação:
 
-Email: diegopaulino.dev@gmail.com
-Telefone: +55 11 95035-4422
+- 📧 Email: diegopaulino.dev@gmail.com  
+- 📱 WhatsApp: +55 11 95035-4422  
+- 🐙 GitHub: [github.com/DiegoCPDev](https://github.com/DiegoCPDev)
